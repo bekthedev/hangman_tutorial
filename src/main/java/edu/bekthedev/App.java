@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
+        //Hangman Game
+        
         String word = "pizza";
 
         Scanner scanner = new Scanner(System.in);
