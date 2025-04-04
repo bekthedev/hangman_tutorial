@@ -178,7 +178,6 @@ smartphone
 tablet  
 gadget  
 router  
-satnav  
 sensor  
 drone  
 turbo  
@@ -208,5 +207,4 @@ sunspot
 teleport  
 universe  
 warpdrive  
-xenon  
 zero  
